@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# RAG / Local Data
+brain/
+uploads/
+backend/uploads/
+rag_app.db
+rag_app.db
+*.sqlite3
+chroma_db/
+
+# Logs
+*.log
